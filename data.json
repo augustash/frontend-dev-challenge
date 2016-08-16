@@ -1,0 +1,17 @@
+"employees":[
+  {
+    "firstName":"John", 
+    "lastName":"Doe",
+    "imagePath":"/img/john.jpg"
+  },
+  {
+    "firstName":"Jeff", 
+    "lastName":"Smith",
+    "imagePath":"/img/jeff.jpg"
+  },
+  {
+    "firstName":"Pete",
+    "lastName":"Peterson",
+    "imagePath":"/img/pete.jpg"
+  }
+]

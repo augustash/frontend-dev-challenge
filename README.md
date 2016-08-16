@@ -1,1 +1,34 @@
-# frontend-dev-challenge
+# Frontend Developer Challenge
+
+`version 1.0`
+
+Welcome to the August Ash Frontend Developer Challenge. This is a chance for you to show us your skills and provide us some insight on how you develop.
+
+Interviews are great and all but no amount of questions can accurately demonstrate what you can do. It's important to note that this is by no means a test...we just want to get a sense for how you write code and solve problems.
+
+## The Challenge 
+
+### What You'll need to build
+
+Using the design assets provided, translate the flat design into a static html page.
+
+### Guidelines
+
+You are encouraged to be creative and use any coding techniques in your arsenal. We want to emphasize that the translation of this design into code is open to your interpretation. That said, here are few guidelines that must be followed:
+
+* It is only necessary to develop the provided design. No interior pages, php functionality, or database integration is necessary. 
+* Although a mobile design mockup is not provided this design needs to be responsive. Use your own creativity and best judgement to adjust the layout for any device size.
+* The large image area in the design concept implies that there is a rotating slideshow.
+* Do not use a Content Management System or other templated platform
+
+## Judging Criteria
+* We expect clean, valid, semantic markup.
+* Git commit messages, history, and branching.
+* Code commenting. What is your code doing?
+* Sass structure and technique
+* Javascript use and authoring
+
+### Bonus
+* We gave you a single static image. Impress us with appropriately used hover effects, animations, or transitions.
+* Use the provided JSON file to build the grid portion of the challenge. It would be neat to see some AJAX. 
+
