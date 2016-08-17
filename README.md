@@ -19,16 +19,19 @@ You are encouraged to be creative and use any coding techniques in your arsenal.
 * It is only necessary to develop the provided design. No interior pages, php functionality, or database integration is necessary. 
 * Although a mobile design mockup is not provided this design needs to be responsive. Use your own creativity and best judgement to adjust the layout for any device size.
 * The large image area in the design concept implies that there is a rotating slideshow.
-* Do not use a Content Management System or other templated platform
+* The font used in the design is a free font named 'Lato'.
+* Do not use a Content Management System or other templated platform.
+* Include all dev/src files.
+* The provided images are high-res originals. Feel free to edit these as needed.
 
 ## Judging Criteria
 * We expect clean, valid, semantic markup.
-* Git commit messages, history, and branching.
 * Code commenting. What is your code doing?
 * Sass structure and technique
 * Javascript use and authoring
+* Git commit messages, history, and branching.
 
 ### Bonus
-* We gave you a single static image. Impress us with appropriately used hover effects, animations, or transitions.
-* Use the provided JSON file to build the grid portion of the challenge. It would be neat to see some AJAX. 
+* We gave you a flat, static, design mockup. Impress us with appropriately used hover effects, animations, or transitions.
+* Use the provided JSON file to build the grid portion of the challenge. It would be neat to see some AJAX. This file can be edited as needed.
 
