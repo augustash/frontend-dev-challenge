@@ -8,7 +8,7 @@ Interviews are great and all but no amount of questions can accurately demonstra
 
 ## The Challenge 
 
-### What You'll need to build
+### What you'll need to build
 
 Using the design assets provided, translate the flat design into a static html page.
 
